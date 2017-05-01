@@ -1,0 +1,3 @@
+http://www.imageology.com.au/wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css
+http://www.imageology.com.au/wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css
+http://manikin.co.id/wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css

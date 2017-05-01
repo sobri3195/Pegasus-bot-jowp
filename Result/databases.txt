@@ -1,0 +1,60 @@
+
+[ DATABASE ] 
+http://www.greenpack.co.id/
+[-]Database Name = greenpac_wp796
+[-]Database User = greenpac_wp796
+Database Password = n0O15-QS.P
+[-]Database Host = localhost
+[ DATABASE ] 
+http://www.imageology.com.au/
+[-]Database Name = imageolo_wpimg2
+[-]Database User = imageolo_wpimg2
+Database Password = 474@[pPS2s
+[-]Database Host = localhost
+[ DATABASE ] 
+http://www.imageology.com.au/
+[-]Database Name = imageolo_wpimg2
+[-]Database User = imageolo_wpimg2
+Database Password = 474@[pPS2s
+[-]Database Host = localhost
+[ DATABASE ] 
+http://revolutionsports.in/
+[-]Database Name = revolutionsports
+[-]Database User = revolutionsports
+Database Password = DCuxQ3eZHEpH2Mvq
+[-]Database Host = localhost
+[ DATABASE ] 
+http://www.imageology.com.au/
+[-]Database Name = imageolo_wpimg2
+[-]Database User = imageolo_wpimg2
+Database Password = 474@[pPS2s
+[-]Database Host = localhost
+[ DATABASE ] 
+http://manikin.co.id/
+[-]Database Name = manikin1_indie04
+[-]Database User = manikin1_indie04
+Database Password = ledzeppelin
+[-]Database Host = localhost
+[PhpMyAdmin]http://manikin.co.id//phpMyAdmin/   =>   PMA Founded !!
+
+
+[PhpMyAdmin]http://manikin.co.id//phpmyadmin/   =>   PMA Founded !!
+
+http://www.pengdapeltijatim.or.id/
+[+]DATABASE INFO
+[-]Database User = pengdape_usr 
+[-]Database Password = Salamun99
+[-]Database Name = pengdape_jtm
+[-]Database Host = localhost
+
+[+] FTP INFO
+[-]FTP Host = 
+[-]FTP Port = 
+[-]FTP User = peltijaya2016
+[-]FTP Pass = pjbpjbpjb
+
+[+] SMTP INFO
+[-]SMTP User = 
+[-]SMTP Password = 
+[-]SMTP Port = 25
+[-]SMTP Host = localhost

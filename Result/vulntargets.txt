@@ -1,0 +1,29 @@
+[rev cnfg] http://www.ofmantalya.com/
+[rev cnfg] http://www.nrgab.com/
+[rev cnfg] http://www.nrgab.com/
+[rev cnfg] http://www.greenpack.co.id/
+[users] http://www.maddiadmerauke.sch.id/
+[rev cnfg] http://www.bkl.co.id/
+[rev cnfg] http://spacepropertyco.com.au/
+[rev cnfg] http://inviza.com.au/
+[rev cnfg] http://www.imageology.com.au/
+[rev deface] http://www.imageology.com.au/
+[rev cnfg] http://dtt.net.au/
+[rev cnfg] http://www.imageology.com.au/
+[rev cnfg] http://www.mindlifeclinic.com.au/
+[rev cnfg] http://www.patwa.co.in/
+[rev cnfg] http://revolutionsports.in/
+[rev cnfg] http://www.imageology.com.au/
+[rev deface] http://www.imageology.com.au/
+[users] http://www.talentabumi.co.id/
+[rev cnfg] http://cairnschinesenewyear.org/
+[users] http://www.depokaqiqah.com/
+[users] http://www.kambingkiloan.com/
+[users] http://www.madujakarta.com/
+[users] http://www.uetcl.com/
+[users] http://www.maddiadmerauke.sch.id/
+[rev cnfg] http://sos.persakmi.or.id/
+[rev cnfg] http://manikin.co.id/
+[rev deface] http://manikin.co.id/
+[Media] http://www.pengdapeltijatim.or.id/
+[hdflv] http://www.pengdapeltijatim.or.id/
